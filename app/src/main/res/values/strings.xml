@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyCard</string>
+    <string name="full_name">Pengcheng Xia</string>
+    <string name="title">Please scan the code </string>
+    <string name="tel">114514</string>
+    <string name="mail">pengchengxia@mail.ustc.edu.cn</string>
+    <string name="address">2#402</string>
+</resources>
